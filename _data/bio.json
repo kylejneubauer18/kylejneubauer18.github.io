@@ -28,11 +28,7 @@
       ]
   },
   "interests": [
-      {
-      "name": "Siftware Engineering",
-      "keywords": [
-      ]
-    },
+    {
       "name": "Internet Of Things",
       "keywords": [
         "Arduino",
