@@ -25,7 +25,7 @@
         "username": "ryanvizcarra",
         "url": "www.linkedin.com/in/ryan-vizcarra-486207204"
       },
-     ]
+      ]
   },
   "interests": [
     {
@@ -33,7 +33,7 @@
       "keywords": [
         "Arduino",
         "TI MSP430"
-      ]
+     ]
     },
     {
       "name": "data mining",
