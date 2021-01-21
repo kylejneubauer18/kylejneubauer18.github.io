@@ -2,7 +2,7 @@
   "basics": {
     "name": "Ryan Vizcarra",
     "label": "Student",
-    "picture": "https://techfolios.github.io/images/Facetune_13-11-2018-15-44-00.jpg"
+    "picture": "https://techfolios.github.io/images/molly.png"
     "email": "vizcarra@hawaii.edu",
     "phone": "",
     "website": "https://ryanv048.github.io",
@@ -29,14 +29,14 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Internet Of Things",
       "keywords": [
         "Arduino",
         "TI MSP430"
      ]
     },
     {
-      "name": "machine learning",
+      "name": "Machine Learning",
       "keywords": [
         "Sony Neural Consol",
         "Arduino",
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "name": "renewable energy",
+      "name": "Renewable Energy",
       "keywords": [
         "Renewable Energey",
         "Solar",
