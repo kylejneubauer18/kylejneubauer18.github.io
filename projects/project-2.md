@@ -3,7 +3,7 @@ layout: project
 type: project
 
 
-image: images/team-kanaloa.jpg
+image: images/team-kanaloa.png
 title: Unmanned Marine Vessel
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ labels:
 summary: Maintain and update every aspect of a Unmanned Marine Vessel, with the ultimate goal of winning the Robot X Challenge.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/team-kanaloa.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
