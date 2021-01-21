@@ -14,7 +14,7 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
-    "profiles": [
+    "profiles": {
       {
         "network": "github",
         "username": "ryanv048",
@@ -25,7 +25,6 @@
         "username": "ryanvizcarra",
         "url": "www.linkedin.com/in/ryan-vizcarra-486207204"
       },
-    ]
   },
   "interests": [
     {
