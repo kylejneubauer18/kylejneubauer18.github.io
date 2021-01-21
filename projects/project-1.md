@@ -21,7 +21,17 @@ summary: My team was tasked to create a device using piezoelectric matrials to r
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+The objective of the of the Biometric Piezoelectric Sensor team was to design a non-invasive way to properly measure a persons repiratory rate, heart rate, and blood pressure by way of piezoelectricity. First discovered by brothers Pierre and Pau Jacques Curie. The way piezoelectricity works is electricity is created by adding pressure in a crystaline substance. A picture of the material used for this project can be found below. The disign of the device needed to be a user-friendly device that in emergency situations or everyday use any user would be able to properly measure their vital signs, be it a first responder or consumer.
+
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/piezo.png">
+  <img class="ui image" src="../images/piezo-experiment.png">
+  <img class="ui image" src="../images/piezo-heartrate-graph.jpg">
+</div>
+
+The device to be created would use the energy emitted from the user by means of respiratory motion. Since the device will be powered by the human body the device could be used when no available power source is nearby. Such place may include times of a black out, local and global catastrophies, and remote locations. With such potential uses in extreme conditions the device also needed to be able to be water, dust, and drop resistant.
+
+Some of the current technology consists of an Electrocardiogram(EKG or ECG) which record and displays an individuals heart rate, this type of feature can now be found in most smart watches such as the apple watch. Another technology that could be replace with this project would me the common thermometer and a sphygnomanometer, a sphygnomameter is a device that measures an individuals blood pressure. Some of the limitations of these devices is that it continues to need a constant source of power, such as batteries and ac power, which in case of a black out or a remote location the power to the current devices can not maintain energy after a certain amount of time. Some other limitations include portability, convenience, and most importantly accessibility.
 
 For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
 
