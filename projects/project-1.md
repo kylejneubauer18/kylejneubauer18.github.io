@@ -14,13 +14,6 @@ labels:
 summary: My team was tasked to create a device using piezoelectric matrials to read a persons respiratory rate, heart rate, and blood pressure.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
-
 The objective of the of the Biometric Piezoelectric Sensor team was to design a non-invasive way to properly measure a persons repiratory rate, heart rate, and blood pressure by way of piezoelectricity. First discovered by brothers Pierre and Pau Jacques Curie. The way piezoelectricity works is electricity is created by adding pressure in a crystaline substance. A picture of the material used for this project can be found below. The disign of the device needed to be a user-friendly device that in emergency situations or everyday use any user would be able to properly measure their vital signs, be it a first responder or consumer.
 
 <div class="ui small rounded images">
