@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/heart-xray.png
 title: Biometric Piezoelectric Sensor
-permalink: projects/micromouse
+permalink: projects/piezo
 # All dates must be YYYY-MM-DD format!
 date: 2017-06-01
 labels:
