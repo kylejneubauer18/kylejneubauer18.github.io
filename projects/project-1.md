@@ -3,7 +3,6 @@ layout: project
 type: project
 image: images/heart-xray.png
 title: Biometric Piezoelectric Sensor
-permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2017-06-01
 labels:
@@ -23,27 +22,14 @@ The objective of the of the Biometric Piezoelectric Sensor team was to design a 
   <img class="ui image" src="../images/Picture1.png">
 </div>
 
+The image above starting from the left(Image of a piezo electric capable material). Second image to the right of the first image is a patient with piezo electric material wrapped around their right arm, wrapped in bandages. Third image to the right from the first image on the left is a graph that shows the patients heart rate. Last image on the right is the patients heart rate after eliminating the noise from the previous image using matlab.
+
 The device to be created would use the energy emitted from the user by means of respiratory motion. Since the device will be powered by the human body the device could be used when no available power source is nearby. Such place may include times of a black out, local and global catastrophies, and remote locations. With such potential uses in extreme conditions the device also needed to be able to be water, dust, and drop resistant.
 
-Some of the current technology consists of an Electrocardiogram(EKG or ECG) which record and displays an individuals heart rate, this type of feature can now be found in most smart watches such as the apple watch. Another technology that could be replace with this project would me the common thermometer and a sphygnomanometer, a sphygnomameter is a device that measures an individuals blood pressure. Some of the limitations of these devices is that it continues to need a constant source of power, such as batteries and ac power, which in case of a black out or a remote location the power to the current devices can not maintain energy after a certain amount of time. Some other limitations include portability, convenience, and most importantly accessibility.
+For this project, it was a team of 4 people. The team was then broken down further in groups of two. Group 1 would be responsible for doing the research in terms of mathimatical calculations and research into current research being done on piezo electricity around the world. Group 2 was responsible for experimentation and taking notes of any successes or issues that arises. Some experiments consisted of how the device would measure vital signs in different forms of action from the patient, for example, sitting, standing, walking, running. Each morning the two groups would talk about the previous days result and current days goal. Every morning the group would then teach each other of update each other about what they have found and give a status update. The begining of every week the two groups would then swap roles so that each group is aware and gains experience in the different aspects of the project. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+If you would like to view our teams final presentation you can view it [here](https://github.com/ryanv048/ryanv048.github.io/blob/master/Final%20Presentation%202019-10-09%2019_34_06.pdf).
 
 
 
