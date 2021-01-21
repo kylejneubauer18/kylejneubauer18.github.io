@@ -10,8 +10,6 @@ permalink: projects/vacay
 date: 2020-01-14
 labels:
   - Machine Learning
-  - Artifical Intelligence
-  - Robot X Challenge
   - pSpice
 summary: Maintain and update every aspect of a Unmanned Marine Vessel, with the ultimate goal of winning the Robot X Challenge.
 ---
