@@ -26,13 +26,10 @@ The Ultimate goal of Team Kanaloa is to comepete in the Robot X Challenge and Wi
   <img class="ui image" src="../images/Entrance-Exit.png">
   <img class="ui image" src="../images/nav-control.png">
   <img class="ui image" src="../images/totems.png">
+  <img class="ui image" src="../images/follow-path.png">
 </div>
 
-Being breifly apart of Team Kanaloa, I was teamed up with a fellow student engineer in the electrical engineering department. How task was to update the circuit diagram of the vessel and upload the diagram to a github repository. Each week the whole team would get together to talk about current status on our task and any new issues that may have risen during the previous week. Apart from the task of 
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Being breifly apart of Team Kanaloa, I was teamed up with a fellow student engineer in the electrical engineering department. Our task was to update the circuit diagram of the vessel and upload the diagram to a github repository. Each week the whole team would get together to talk about current status on our tasks and any new issues that may have risen during the previous week. Apart from the task of updating the circuit diagram, I was also tasked in creating a How-To-Guide for updating the circuit diagram on pSpice to help future students make any future updates on the circuit of the vessal. The How-To-Guide consisted of how to install the program on the students personal computer and how to get the proper licensing to use the program. The How-to-Guide also give a brief tutorial on how to get around and use the program itself. The last task I was assigned to is management of the vessals powerful batteries and making sure that they are charged properly and are turned on by team members who are properly trained.
 
 If you would like to learn more about Team Kanaloa, you can find their site [here](http://rip.eng.hawaii.edu/research/unmanned-x-systems/) and if your a current University of Hawaii student in any of the Engineering fields or an ICS student looking for a fun and worthwhile project to get into during your time at school, you can inquire with the team [here](http://rip.eng.hawaii.edu/contact-us/).
 
