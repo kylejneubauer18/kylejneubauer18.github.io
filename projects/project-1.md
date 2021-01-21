@@ -11,7 +11,7 @@ labels:
   - Arduino
   - C++
   - Matlab
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: My team was tasked to create a device using piezoelectric matrials to read a persons respiratory rate, heart rate, and blood pressure.
 ---
 
 <div class="ui small rounded images">
