@@ -1,6 +1,8 @@
 ---
 layout: project
 type: project
+
+
 image: images/team-kanaloa.jpg
 title: Unmanned Marine Vessel
 permalink: projects/vacay
