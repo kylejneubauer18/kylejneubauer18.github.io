@@ -27,6 +27,7 @@ The objective of the of the Biometric Piezoelectric Sensor team was to design a 
   <img class="ui image" src="../images/Piezo.png">
   <img class="ui image" src="../images/Piezo-experiment.png">
   <img class="ui image" src="../images/piezo-heartrate-graph.png">
+  <img class="ui image" src="../images/Picture1.png.png">
 </div>
 
 The device to be created would use the energy emitted from the user by means of respiratory motion. Since the device will be powered by the human body the device could be used when no available power source is nearby. Such place may include times of a black out, local and global catastrophies, and remote locations. With such potential uses in extreme conditions the device also needed to be able to be water, dust, and drop resistant.
