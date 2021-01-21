@@ -1,15 +1,16 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
+image: images/renewable-Energy.png
+title: Renewable Energy
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-08-24
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Sony Neural Network 
+  - Arduino
+  - Machine Learning
+summary: To build a algorithm that learns with time if certain location skies are cloudy or not cloudy and adjust solar power management system accordingly.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
