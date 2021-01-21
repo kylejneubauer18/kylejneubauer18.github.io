@@ -1,15 +1,16 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/heart-xray.png
 title: Biometric Piezoelectric Sensor
-permalink: projects/micromouse
+permalink: projects/Biometric-Piezoelectric-Sensor
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-06-01
 labels:
-  - Robotics
+  - Health
   - Arduino
   - C++
+  - Matlab
 summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 ---
 
