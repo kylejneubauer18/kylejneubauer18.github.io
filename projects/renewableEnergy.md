@@ -13,7 +13,11 @@ labels:
 summary: To build a algorithm that learns with time if certain location skies are cloudy or not cloudy and adjust solar power management system accordingly.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/cloud-cover-1.png">
+  <img class="ui image" src="../images/cloud-cover-2.png">
+  <img class="ui image" src="../images/cloud-cover-3.png">
+</div>
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
