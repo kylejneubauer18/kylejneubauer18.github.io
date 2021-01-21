@@ -29,11 +29,16 @@
   },
   "interests": [
     {
+      "name": "Software Engineering",
+      "keywords": [
+     ]
+    },
+    {
       "name": "Internet Of Things",
       "keywords": [
         "Arduino",
         "TI MSP430"
-     ]
+      ]
     },
     {
       "name": "Machine Learning",
