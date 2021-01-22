@@ -20,8 +20,7 @@ labels:
   Now JavaScript, It isn't a bad language to know, in fact it's quite the opposite. I love the fact I don't have to label my variable int, double, char, string, and so forth. Its so intuitive that it just knows, pairing it with JSFiddle take it up a notch in terms of ease of use. and how I no longer have to type in gcc or g++ to compile or link, its automatic. Javascript compared to other languages is much easier, the creators definetly had the user in mind when creating the language. 
   
   
- ## Last Java For The Script
- 
+## Last Java For The Script
  
   My initial thoughts prioir to learning JavaScript was "awesome!, I can finally help my sister build her website when the time comes for her newly emerging business". Not quite there yet but i'm sure I will. My first experience in building anything on the web is the "Professional Persona" module. Where we were asked to create an online presence using github. I had alot of fun getting instant satifaction seeing just a empty hollow page and slowly building up to a Professional Online Resume. Using freeCodeCamp to learn the initial and basic on how to code and navigate around the language you notice that majority of the process is similar to the other such as java, c, c#,C++, arduino, and matlab in terms of mathimatical calculations.
   Other similiarities i noticed was with the loops. Having already acquired those skills I was able to complete the Basic JavaScript section. However, it is always nice to get a refresher or even stregthen your knowledge on areas you arent to knowledgeable in for me for example are arrays.
