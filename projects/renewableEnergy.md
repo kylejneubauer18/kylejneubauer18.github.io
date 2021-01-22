@@ -18,9 +18,10 @@ summary: To build a algorithm that learns with time if certain location skies ar
   <img class="ui image" src="../images/cloud-cover-3.png">
 </div>
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+The objective of this project is to build a system in where cameras would be placed on rooftops all over Oahu and ultimately around the world to help maintain and make renewable energy much more effiecient. For example, if the leeward side of the island of Oahu and the windward side is cloudy and rainy the system would then divert all renewable energy collected on the leeward side to the windward side and vice-versa. With a system like this in place Oahu and potentially the world could potentially make full use of the renewable energy created and gathered from houses and business rather it going to waste and just decaying.
 
-To give you a flavor of the game, here is an excerpt from one run:
+The way the system would work is there will be a camera that would consistently and periodically take picture of the sky once the picture has been taken it would then be saved on to a SD card and an LTE connectivity would then send that image to a remote arduino program ran on a rasberry pi system. The camera, LTE antenna, SD card slot, and the rasberry pi board would all be built together in a container that would than be placed on certain roof top locations. 
+an algorithm using the Sony Neural Network Console that then pull
 
 <hr>
 
