@@ -26,3 +26,5 @@ I was part of the machine learning team and my task involved researching current
 
 Being on the Machine Learning team definetly helped me understand more about algorithms and machine learning in how machine learning is treated as a neural network just like a neural network of people. I also learned to code in yet another programming languages such as Sony Neural Network and Arduino. I also learned how to link two completly different programs to work cohesively with one another. 
 
+If you would like to learn more of even join our team our website can be found [here](http://manoa.hawaii.edu/me/redlab/).
+
