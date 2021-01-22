@@ -31,6 +31,8 @@ The device to be created would use the energy emitted from the user by means of 
 
 For this project, it was a team of 4 people. The team was then broken down further in groups of two. Group 1 would be responsible for doing the research in terms of mathimatical calculations and research into current research being done on piezo electricity around the world. Group 2 was responsible for experimentation and taking notes of any successes or issues that arises. Some experiments consisted of how the device would measure vital signs in different forms of action from the patient, for example, sitting, standing, walking, running. Each morning the two groups would talk about the previous days result and current days goal. Every morning the group would then teach each other of update each other about what they have found and give a status update. The begining of every week the two groups would then swap roles so that each group is aware and gains experience in the different aspects of the project. 
 
+Working with the Biometric Piezoelectric Sensor team introduced me to my first collaborative environment. Working with a team and meeting weekly to talk about the situation of the project. Working with the Biometric Piezoelectric Sensor team also first introduced me to working with matlab and how to code and manipulate and graph values attained from an external device.
+
 
 If you would like to view our teams final presentation you can view it [here](https://github.com/ryanv048/ryanv048.github.io/blob/master/Final%20Presentation%202019-10-09%2019_34_06.pdf).
 
