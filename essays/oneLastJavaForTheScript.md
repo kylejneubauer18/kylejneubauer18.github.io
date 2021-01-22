@@ -9,10 +9,13 @@ labels:
   - JavaScript
 ---
 
+.page__content {
+
+  text-align: justify;
 <img class="ui xlarge image" src="../images/IntroJavaEssay.png" width="1000">
 
 
-
+  I've had my fair share in working with many different forms of programming language. I remember when my first experience with any programming language, it was c# in my EE150 class. I remember thinking this is so cool I get to finally write code and I get to see whats behind the scenes of the computer. I didn't fair to well in that classes. I was absolutely not prepared mentally and with time management. I wish back then I knew just how much time it takes and the moments were you kept getting a compilation error and hours later only to find out your greater than in your "if" statement actually needed to be a less than operator. I didn't give up and pressed forward eventually getting a "A" in the class.
 One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
 
 Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
@@ -52,3 +55,4 @@ So back to the original premise; why is being one of the club officers so diffic
 And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
 
 Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+}
