@@ -25,7 +25,7 @@ labels:
  
   My initial thoughts prioir to learning JavaScript was "awesome!, I can finally help my sister build her website when the time comes for her newly emerging business". Not quite there yet but i'm sure I will. My first experience in building anything on the web is the "Professional Persona" module. Where we were asked to create an online presence using github. I had alot of fun getting instant satifaction seeing just a empty hollow page and slowly building up to a Professional Online Resume. Using freeCodeCamp to learn the initial and basic on how to code and navigate around the language you notice that majority of the process is similar to the other such as java, c, c#,C++, arduino, and matlab in terms of mathimatical calculations.
   Other similiarities i noticed was with the loops. Having already acquired those skills I was able to complete the Basic JavaScript section. However, it is always nice to get a refresher or even stregthen your knowledge on areas you arent to knowledgeable in for me for example are arrays.
-  ES6 was a nice touch it went through the differences between var, const, and let are and many other skills that might be useful or will be useful to your future in JavaScript.
+  ES6 was a nice touch it went through the differences between var, const, and let are and many other skills that might be useful or will be useful to your future in JavaScript. did you change?
 
 
 ## One Last Java For The Script
