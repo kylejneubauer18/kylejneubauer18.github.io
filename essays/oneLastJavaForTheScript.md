@@ -28,5 +28,5 @@ labels:
 
 ## One Last Java For The Script
 
-One last java for the script, I truly think JavaScript is a nice programming language, definetly a useful one at that. Based on my experience with JavaScript, it seems to be a very solid language to use just as I mentioned above. 
+  One last java for the script, I truly think JavaScript is a nice programming language, definetly a useful one at that. Based on my experience with JavaScript, it seems to be a very solid language to use just as I mentioned above. 
 In the end we live in a society of 7.8 billion people, it is almost a gurantee that a good portion of programmers will not like to use JavaScript and a good portion would want to use it. To me I believe its how you are taught or introduced to the language that will dicate if a person will love it or will hate the language. It's all relative and a matter of perception. As with any language go into it with an open mind and try to find the fun in it no matter how small because that small fun might just be the spark you were looking for.
