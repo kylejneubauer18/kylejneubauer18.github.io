@@ -24,3 +24,5 @@ The group project consisted of 6 students and was split into two teams of 3. One
 
 I was part of the machine learning team and my task involved researching current algorithms that might help with our algorithms design and building an algorithm from scratch and running a simulation of the algorithm. Every week the team would meet via zoom and discuss our current achievements and failures. The machine learning team was able to complete their task and have a working algorithm. Future plans for the project is to enchance the algorithm and teach the algorithm to acept new images from the Spresense team.
 
+Being on the Machine Learning team definetly helped me understand more about algorithms and machine learning in how machine learning is treated as a neural network just like a neural network of people. I also learned to code in yet another programming languages such as Sony Neural Network and Arduino. I also learned how to link two completly different programs to work cohesively with one another. 
+
