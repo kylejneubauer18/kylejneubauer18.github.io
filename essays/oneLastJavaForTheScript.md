@@ -9,50 +9,24 @@ labels:
   - JavaScript
 ---
 
-.page__content {
-
-  text-align: justify;
 <img class="ui xlarge image" src="../images/IntroJavaEssay.png" width="1000">
 
 
+## First Java For The Script
+
   I've had my fair share in working with many different forms of programming language. I remember when my first experience with any programming language, it was c# in my EE150 class. I remember thinking this is so cool I get to finally write code and I get to see whats behind the scenes of the computer. I didn't fair to well in that classes. I was absolutely not prepared mentally and with time management. I wish back then I knew just how much time it takes and the moments were you kept getting a compilation error and hours later only to find out your greater than in your "if" statement actually needed to be a less than operator. I didn't give up and pressed forward eventually getting a "A" in the class.
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+  Since that first experience i've moved on from c# expecting that was the only language that computers know. Boy was I so very very wrong. That was a mistake on my part thinking that c# was the only language out there. It made it harder for myself to accept and do other programming languages. The next programming language I encounter was c(just c not nothing after). That was an interesting language. Considering I came from c# I thought compiling was just a single push of a button and codeblocks would compile and run your code for you. not for c, well at least not the way I was taught how to do it. That was a nightmare. Everything I looked up online was specicfic to my question and it made it that much hard. However, I pressed on.
+  Next language I encountered was Java. Now we're talking. it was easy to understand except the fact that printf wasn't printf it was system.out and so fourth, however, I had a really great professor to show us the basics first and it just went from there. 
+  Now JavaScript, It isn't a bad language to know, in fact it's quite the opposite. I love the fact I don't have to label my variable int, double, char, string, and so forth. Its so intuitive that it just knows, pairing it with JSFiddle take it up a notch in terms of ease of use. and how I no longer have to type in gcc or g++ to compile or link, its automatic. Javascript compared to other languages is much easier, the creators definetly had the user in mind when creating the language. 
+  
+ ## Last Java For The Script
+ 
+  My initial thoughts prioir to learning JavaScript was "awesome!, I can finally help my sister build her website when the time comes for her newly emerging business". Not quite there yet but i'm sure I will. My first experience in building anything on the web is the "Professional Persona" module. Where we were asked to create an online presence using github. I had alot of fun getting instant satifaction seeing just a empty hollow page and slowly building up to a Professional Online Resume. Using freeCodeCamp to learn the initial and basic on how to code and navigate around the language you notice that majority of the process is similar to the other such as java, c, c#,C++, arduino, and matlab in terms of mathimatical calculations.
+  Other similiarities i noticed was with the loops. Having already acquired those skills I was able to complete the Basic JavaScript section. However, it is always nice to get a refresher or even stregthen your knowledge on areas you arent to knowledgeable in for me for example are arrays.
+  ES6 was a nice touch it went through the differences between var, const, and let are and many other skills that might be useful or will be useful to your future in JavaScript.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+## One Last Java For The Script
 
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
-}
+One last java for the script, I truly think JavaScript is a nice programming language, definetly a useful one at that. Based on my experience with JavaScript, it seems to be a very solid language to use just as I mentioned above. 
+In the end we live in a society of 7.8 billion people, it is almost a gurantee that a good portion of programmers will not like to use JavaScript and a good portion would want to use it. To me I believe its how you are taught or introduced to the language that will dicate if a person will love it or will hate the language. It's all relative and a matter of perception. As with any language go into it with an open mind and try to find the fun in it no matter how small because that small fun might just be the spark you were looking for.
