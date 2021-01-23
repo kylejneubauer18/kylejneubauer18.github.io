@@ -12,9 +12,9 @@ labels:
   - Machine Learning
 summary: To build a algorithm that learns with time if certain location skies are cloudy or not cloudy and adjust solar power management system accordingly.
 ---
-<div class="ui centered medium rounded images">
-  <img class="ui centered image" src="../images/cloud-cover-1.png">
-  <img class="ui centered image" src="../images/cloud-cover-3.png">
+<div class="ui fluid medium rounded images">
+  <img class="ui image" src="../images/cloud-cover-1.png">
+  <img class="ui image" src="../images/cloud-cover-3.png">
 </div>
 
 <p align="justify">
