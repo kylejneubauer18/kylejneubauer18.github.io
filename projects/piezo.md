@@ -22,7 +22,7 @@ The objective of the of the Biometric Piezoelectric Sensor team was to design a 
 
 
 <p align="justify">
-<div class="ui large rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/Piezo.png" width="500", height="500">
   <img class="ui image" src="../images/Piezo-experiment.png" width="500", height="500">
   <img class="ui image" src="../images/piezo-heartrate-graph.png" width="500", height="500">
