@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/renewable-Energy.png
 title: Renewable Energy
-permalink: projects/cotton
+permalink: projects/renewableEnergy
 # All dates must be YYYY-MM-DD format!
 date: 2020-08-24
 labels:
