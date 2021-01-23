@@ -22,10 +22,10 @@ summary: Maintain and update every aspect of a Unmanned Marine Vessel, with the 
 
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;The main objective of Team Kanaloa is Maintain, upkeep, and update the teams unmanned marine vessel(pictured to the right). With maintaining the boat the team would replace parts as needed, such parts could include rivets that may have rusted over during sea trials or equipments that is no longer operational. In terms of upkeep, the team would occasionally run simulations on the unmanned vessal to see if all components are still in working order and in some instances the team would do a field test to see if the machine is still sea worthy. As funding becomes available or research has been done and has been found there is a more efficient way to complete the teams ultimate goal, the team would then update the vessal.
-  </p>
+</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;The Ultimate goal of Team Kanaloa is to comepete in the Robot X Challenge and Win. Winning the challenge would give the team the funding to further enchance the vessal and bring a vertain prestige to the school for winning the challenge. If you would like to know more about the Robot X Challenge you can find their website [here](https://robotx.org). The Robot X challenge is an international, university- level competition in which students from around the world will test their unmanned vessal capabilities. For example, the vessal would need to be able to navigate around on its own using GPS navigation, the vessal would then need to do a series of task as in weaving and navigating through buoys, sample challenge images can be seen below.
-
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;The Ultimate goal of Team Kanaloa is to comepete in the Robot X Challenge and Win. Winning the challenge would give the team the funding to further enchance the vessal and bring a vertain prestige to the school for winning the challenge. If you would like to know more about the Robot X Challenge you can find their website</p> [here](https://robotx.org). <p align="justify">The Robot X challenge is an international, university- level competition in which students from around the world will test their unmanned vessal capabilities. For example, the vessal would need to be able to navigate around on its own using GPS navigation, the vessal would then need to do a series of task as in weaving and navigating through buoys, sample challenge images can be seen below.
+</p>
 
 <div class="ui medium rounded images">
   <img class="ui image" src="../images/Entrance-Exit.png">
