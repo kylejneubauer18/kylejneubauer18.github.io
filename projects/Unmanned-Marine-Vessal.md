@@ -26,11 +26,11 @@ summary: Maintain and update every aspect of a Unmanned Marine Vessel, with the 
 
 &nbsp;&nbsp;&nbsp;&nbsp;The Ultimate goal of Team Kanaloa is to comepete in the Robot X Challenge and Win. Winning the challenge would give the team the funding to further enchance the vessal and bring a vertain prestige to the school for winning the challenge. If you would like to know more about the Robot X Challenge you can find their website [here](https://robotx.org). The Robot X challenge is an international, university- level competition in which students from around the world will test their unmanned vessal capabilities. For example, the vessal would need to be able to navigate around on its own using GPS navigation, the vessal would then need to do a series of task as in weaving and navigating through buoys, sample challenge images can be seen below.
 
-<div class="ui medium rounded images">
-  <img class="ui image" src="../images/Entrance-Exit.png">
-  <img class="ui image" src="../images/nav-control.png">
-  <img class="ui image" src="../images/totems.png">
-  <img class="ui image" src="../images/follow-path.png">
+<div class="ui centered medium rounded images">
+  <img class="ui centered image" src="../images/Entrance-Exit.png">
+  <img class="ui centered image" src="../images/nav-control.png">
+  <img class="ui centered image" src="../images/totems.png">
+  <img class="ui centered image" src="../images/follow-path.png">
 </div>
 
 <p align="justify">
