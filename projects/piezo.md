@@ -23,10 +23,10 @@ summary: My team was tasked to create a device using piezoelectric matrials to r
 
 <p align="justify">
 <div class="ui medium rounded images">
-  <img class="ui image" src="../images/Piezo.png" width="500">
-  <img class="ui image" src="../images/Piezo-experiment.png" width="500">
-  <img class="ui image" src="../images/piezo-heartrate-graph.png" width="500">
-  <img class="ui image" src="../images/Picture1.png" width="500">
+  <img class="ui image" src="../images/Piezo.png" width="800">
+  <img class="ui image" src="../images/Piezo-experiment.png" width="800">
+  <img class="ui image" src="../images/piezo-heartrate-graph.png" width="800">
+  <img class="ui image" src="../images/Picture1.png" width="800">
 </div>
 </p>
 
