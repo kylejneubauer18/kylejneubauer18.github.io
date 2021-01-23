@@ -23,10 +23,10 @@ The objective of the of the Biometric Piezoelectric Sensor team was to design a 
 
 <p align="justify">
 <div class="ui large rounded images">
-  <img class="ui image" src="../images/Piezo.png">
-  <img class="ui image" src="../images/Piezo-experiment.png">
-  <img class="ui image" src="../images/piezo-heartrate-graph.png">
-  <img class="ui image" src="../images/Picture1.png">
+  <img class="ui image" src="../images/Piezo.png" width="500", height="500">
+  <img class="ui image" src="../images/Piezo-experiment.png" width="500", height="500">
+  <img class="ui image" src="../images/piezo-heartrate-graph.png" width="500", height="500">
+  <img class="ui image" src="../images/Picture1.png" width="500", height="500">
 </div>
 </p>
 
