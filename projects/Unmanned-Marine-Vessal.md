@@ -5,7 +5,7 @@ type: project
 
 image: images/team-kanaloa.png
 title: Unmanned Marine Vessel
-permalink: projects/vacay
+permalink: projects/Unmanned-Marine-Vessal
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-14
 labels:
