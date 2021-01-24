@@ -22,7 +22,7 @@ labels:
 &nbsp;&nbsp;&nbsp;&nbsp;With all good things, there must come an end to it. It’s really hard for me to put a specific date and time on when I decided it was time for me to go back to school but let’s just say one day a switch just kind of flipped in my mind, that I needed to go back to school. When deciding in what to major in at the University of Hawaii. I saw that the school very recently started to offer Computer engineering as an option, and I was excited for that. I knew that the future of the world will always need computer engineers considering that we rely on it so heavily and I knew job security will always be there, so I enrolled and just kept my head down a rolled with the waves and here I am on my last year of school.<br /></p>
 
   
-## Second Java For The Script
+## Currently In Time
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
