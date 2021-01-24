@@ -35,10 +35,7 @@ labels:
 &nbsp;&nbsp;&nbsp;&nbsp;The things I mentioned above is the lead up and an explanation on why in the end I ended up in software engineering. In the beginning it was just to follow in my dad’s footsteps and the fact that I felt like I was running out of time and wasn’t getting any younger and really needed to pick a major. To the jobs and opportunities that was introduced to and learned both the front end and back end of each companies. To finding the real reason behind my interest is being able to help just even one person simplify their life. I may not be a doctor or nurse like my mom or my sister and help save lives. I am however helping people live their lives in a better way.<br /></p>
 
 
-## Last Java For The Script
+## The Future Is Bright
  
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-## One Last Java For The Script
-
-&nbsp;&nbsp;&nbsp;&nbsp;
