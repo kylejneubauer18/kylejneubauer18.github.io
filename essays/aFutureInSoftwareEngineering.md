@@ -36,6 +36,15 @@ labels:
 
 
 ## The Future Is Bright
- 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;Considering its my final year in college and will soon receive my degree. The future is fast approaching for me. There are so many things that I would like to learn still. However, while doing my research in potential jobs. I’ve narrowed down my future prospects to learning more about web design, a freelance web creator, or programmer.<br /></p>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;Web design gives me instant satisfaction on what I’m creating, and a potential that, though they may not know it, is a design I helped create. For example, when creating my professional online profile. It was nice to see how beautiful my profile came out after the amount of time I put into it. Learning web design will allow me to always be in demand, just as all things change, so does design and maintenance changes. Lastly, being in web design it will allow me to further explore my creative side by traveling the world and being inspired by different cultures all the while still working without being tied down to a desk and will reflect in my work.<br /></p>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;Freelance web creator will allow me to still help my fellow people and keeping my life mantra of “Leave this world a little better than I found it.”. With web creation it will allow me to empower my clients mainly small businesses that can compete with bigger businesses. There are a lot of people out there, with many great ideas and are being hindered by the lack of available resources that they have when compared to big established companies that have and can hire an army of programmers. I would like to see myself helping them and being a part of their journey. This is where my true passion lies.<br /></p>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;Lastly, being a programmer, will always be at my core. Programming to me is a real love hate relationship. To be completely honest I’m not the best programmer in the world, but I tend to keep going back to it. I would like to further refine my skills in C, C++, Java, and JavaScript. I know that my education doesn’t stop once I get my degree, education will always be an ongoing situation in the technology.<br /></p>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;The future looks bright, I’m looking forward to learning anything and everything that I possibly can in software technology. With practice I will get better and will then give me an edge in the industry. A project that I just started working on and is currently in the research stage is helping my sister create a website for her business. An undertaking of creating a website for a business will help me grow, learn, establish my portfolio. I know it’s just the start but it’s a great start for a potentially great future.<br /></p>
+
 
