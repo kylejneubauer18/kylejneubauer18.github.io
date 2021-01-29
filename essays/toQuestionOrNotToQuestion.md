@@ -11,6 +11,8 @@ labels:
   - Stack Overflow
 ---
 
+<img class="ui xlarge image" src="../images/quote-to-be-or-not-to-be-that-is-the-question-william-shakespeare.png" width="1000">
+
 ## The Art In Questions
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;I had my eyes recently opened in asking the smart and right way of asking questions, and it was a real eye opener for me. At work, during training, each new employee would have to take a training course on how to ask proper question. Asking a question is a two-way conversation, for example, if a customer had come in and asked “my phone is broken” you would automatically in your mind consider that a dumb question. That question/statement does not help the person asking or myself from helping one another get to a solution, if anything if would take longer to get there because I would have to put on my detective hat ask a few more questions to help narrow down the issue.<br /></p>
