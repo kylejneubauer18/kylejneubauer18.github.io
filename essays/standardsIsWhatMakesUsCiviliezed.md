@@ -14,5 +14,5 @@ labels:
 
 ## In The Past
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp; You may not realize this but we live in a world full of standards. It's just a matter of interpretation and if that person views it as a standard. Standard is defined a /":something established by authority, custom, or general consent as a model or example"/ according to Merriam-Webster dictionary.
+&nbsp;&nbsp;&nbsp;&nbsp; You may not realize this but we live in a world full of standards. It's just a matter of interpretation and if that person views it as a standard. Standard is defined a ":something established by authority, custom, or general consent as a model or example" according to Merriam-Webster dictionary.
 <br /></p>
