@@ -32,9 +32,15 @@ labels:
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; In the end the one thing that is constant in the world of programming and if doesn't matter what language you use, there will always be some form of a standard. You may explicitly be told of those standard or implicitly told in passing but the standard in coding will always be constant.  As I begin my journey in computer programming learning the standards and being told and taught a week on coding standards will set me up to a bright career in software engineering. The coding standard is but one standard that is done to do coding right.<br /></p>
 
-## Learned Code
+## ESLint And IntelliJ Idea
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp; Test
-<br /></p>
+&nbsp;&nbsp;&nbsp;&nbsp; After a week of working with ESLint and IntelliJ IDEA, there are difinetly some differences in working with them compared to the other programs and IDE's that I've worked with before. First, let's talk about ESLint, I find it very combersome having to install ESLint every single time I create a project within IntelliJ IDEA. Currently I would have to download the ESLint file followed by having to move that file into my current project folder. After copying the file into my current project folder, I would then have to open up my terminal screen and change directories and do an install and only then will I be able to continue working with my project. In contrast with working in c language, I would just download the txt file within my IDE copy paste the pathway and change the name of the current project name and that would be all. As with learning any new languages each one will have their own procedures even maybe each IDE you use ESLint will have its own.<br /></p>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; Next lets talk about IDEs, my preferred IDE is visual studios. The only reason as to why I like VS is because I know exactly what i'm currently doing in the program but I do remember when I first installed the program, there was alot of settings that needed to be set to get it to properly work. Till this day I still don't know how to code in Java using VS. With that experience I know that each IDE will have its own ups and downs. I remember wanting to use XCode for all my coding, I downloaded the program and tried to get it setup and I could never get it to work properly, since then I stopped trying and just continued to use VS. With that being said, IntelliJ IDEA looks like a really good IDE to use in terms of programming in JavaScript. I like the minimal screen that it gives you. Just by inspection I can tell it works well with its integration with GitHub. I'm sure that IntelliJ IDEA hase features and shortcuts that would make it easier for me to install ESLint after each new project but I haven't had a chance to fully explore the offerings of IntelliJ IDEA.<br /></p>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; Working with ESLint in IntelliJ IDEA has been great, another thing that I'm currently enjoy in working in this type of environment and you get errors shown immidieatly and will even underline where the error was encountered. The error messages that IntelliJ IDEA gives the user is much more detailed comparing it to other IDEs. The best part is with ESLint it would have lightbulbs to help you better your code, for example, you would get a caution underline on a specific code if there is a better option such as when to use let and const. Removing error messages is much more effiencient in IntelliJ IDEA and allows the user to execute their good much more quickly.<br /></p>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; Overall, I'm enjoying the current environment i'm in when working with JavaScript. When down the road I need to Code in JavaScript, IntelliJ IDEA would be the first IDE I will use, and having gained experience in installing ESLint into my project will make me a more effiecient programmer.
+<br /></p><br /><br /><br />
 
-##
+
