@@ -10,7 +10,7 @@ labels:
   - Education
 ---
 
-<img class="ui xlarge image" src="../images/constitutio.png" width="1000">
+<img class="ui xlarge image" src="../images/Constitution.png" width="1000">
 
 ## The Art In Questions
 <p align="justify">
