@@ -9,7 +9,7 @@ labels:
   - Software
   - Code Standards
   - EsLint
-  -IntelliJ IDEA
+  - IntelliJ IDEA
 ---
 
 <img class="ui xlarge image" src="../images/Constitution.png" width="1000">
