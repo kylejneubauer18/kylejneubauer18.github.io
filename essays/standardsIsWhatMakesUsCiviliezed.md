@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Standards Is What Differereniates Us From The Animal World
 # All dates must be YYYY-MM-DD format!
-date: 2021-01-24
+date: 2021-02-11
 labels:
   - Engineering
   - Software
@@ -29,3 +29,4 @@ labels:
 &nbsp;&nbsp;&nbsp;&nbsp; The next programming language I was exposed to was Java, with that class our professor had us working within JGrasp and i'm back to the one button IDE where where it will compile, link, and execute my program from me which was really nice but knowing what I know now was never really gonna be like that for the rest of my career, which to me was fine. I welcomed the challenge. However, after going through c#, c, and c++, the Java language to me wasn't as bad, I took the class for two semester and both times walked away with an A. After my two semesters of Java, I felt like I was finally ready to take on c and c++ again. With my new gained experience in Java and new gained experience with loops and classes, I truly felt I was in a better situation. Boy was I wrong, see when I first initially took my c/c++ programming language it was a class under the engineering umbrella and the professor had a completely different way of teaching the class. When I re-took the c/c++ programming language this time around it was under the ICS umbrella and with that being said, my expectations about the class was way of. At this point I started to give up I told myself maybe i'm not meant to be a programmer but after some convincing I tried again but this time I completely through out all the expectations I ever had with any programming languages and went in with an open mind and a willingness to learn and so far its working great for me. Each failure for me only strengthen my experience.<br /></p>
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;test
+<br /></p>
