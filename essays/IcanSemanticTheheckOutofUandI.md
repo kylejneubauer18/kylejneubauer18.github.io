@@ -12,4 +12,4 @@ labels:
   - CSS
 ---
 
-<img class="ui medium image" src="../images/SemanticUI.png" width="100%">
+<img class="ui medium image" src="../images/SemanticUI.png" width="300">
