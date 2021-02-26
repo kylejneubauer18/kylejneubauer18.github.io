@@ -12,7 +12,7 @@ labels:
   - CSS
 ---
 
-<img class="ui xlarge image" src="../images/semanticui.png" height="100">
+<img class="ui xlarge image" src="../images/semanticui.png" height="150">
 
 ## Before There Was A U and I
 
