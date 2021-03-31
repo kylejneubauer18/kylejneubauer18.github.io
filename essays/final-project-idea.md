@@ -46,3 +46,7 @@ any project classes and if the student is interested in joining the project clas
   <p>-Student clicks contact us and email prompt will popup with to address prefilled</p>
   
 ## Beyond Basics
+Beyond the initial ideas some future options to the website would be as follows
+<p>-Notify admin on a weekly basis on how many views each project course has been viewed and share those information with project instructor</p>
+<p>-introduce current students in the project and current plans</p>
+<p>-easy to navigate and direct focus on the projects</p>
