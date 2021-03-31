@@ -13,7 +13,7 @@ labels:
 ---
 By Ryan Vizcarra
 
-## Overviwe
+## Overview
 <p>The Problem:</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;As an engineering student be that as a civil, mechanical, electrical, or computer engineering student,
 one of the requirements for graduating is that a student needs to take a sophomore, junior, and senior project class to be able to graduate.
@@ -30,11 +30,11 @@ any project classes and if the student is interested in joining the project clas
 ## Mockup Page Ideas
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;The website would be organized with a college of engineering banner at the top left of the page and a navigation bar that is then broken down to each engineering dicipline with the option to login using the students email address making it esier for the student to reach out to the project course instructor. The central page would display important messages and a centeral picture foucusing on projects currently being held, and lastly a footer menu at the bottom of the site. By clicking on the desired engineering tab, a new page would open up and show the student a card type look of all the available projects for that particular dicipline and if a user clicks on a project if would immidiately first display the class standing the project is available to be it sophomore, junior, senior and a brief introduction to the project.</p>
-  -Landing Page
-  -Tab Links (which links to the different dicipline in engineering)
-  -Mechanical Engineering Landing Page
-  -Civil Engineering Landing Page
-  -Electrical/Computer Engineering Landing Page
-  -student login
-  -email functionality
+  <p>-Landing Page</p>
+  <p>-Tab Links (which links to the different dicipline in engineering)</p>
+  <p>-Mechanical Engineering Landing Page</p>
+  <p>-Civil Engineering Landing Page</p>
+  <p>-Electrical/Computer Engineering Landing Page</p>
+  <p>-student login</p>
+  <p>-email functionality</p>
 
