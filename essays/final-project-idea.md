@@ -35,6 +35,14 @@ any project classes and if the student is interested in joining the project clas
   <p>-Mechanical Engineering Landing Page</p>
   <p>-Civil Engineering Landing Page</p>
   <p>-Electrical/Computer Engineering Landing Page</p>
-  <p>-student login</p>
-  <p>-email functionality</p>
+  <p>-Student login</p>
+  <p>-Email functionality</p>
 
+## Use Case Ideas
+  <p>-New User goes to landing page, will see central image and college of engineering banner title page and navigation bar and student login option</p>
+  <p>-Admin support to update images and update information on site</p>
+  <p>-Student selects a tab option and engineering field landing page will display. User will scroll down to view all all available project classes</p>
+  <p>-Student click on desired project card, project course landing page would be displayed with relevant information</p>
+  <p>-Student clicks contact us and email prompt will popup with to address prefilled</p>
+  
+## Beyond Basics
