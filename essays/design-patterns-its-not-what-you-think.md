@@ -100,6 +100,9 @@ a sample code of the subscription to vendors is seen below.
 }
 ```
 
-
-
+## Concluding Remarks
+<div style="text-align: justify">
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp; As you can see, the design pattern isn't about the design or layout of how a website will look like nor is there unwritten code on how to organize a website as I initially thought it was. Design Pattern is nowhere related to design design, but rather a process in solving a repeatable problem with the same solutions over and over again. Some design patterns include prototype design pattern, publish-subscribe which is an instance of the observer design pattern, and singleton design pattern. The three design patterns mentioned above are just a few of the design patterns that I have so far used, I'm sure you may have encountered a design pattern in one way shape or form.
+  </p>  
   
