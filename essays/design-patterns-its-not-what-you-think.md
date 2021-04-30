@@ -13,4 +13,4 @@ labels:
   - Model View Controller
 ---
 
-<img class="ui xlarge image" src="../images/semanticui.png" height="125">
+<img class="ui xlarge image" src="../images/design-patterns.png" width="1000">
