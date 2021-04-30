@@ -71,7 +71,9 @@ a sample code of the subscription to vendors is seen below.
 ### Prototype Design Pattern
 <div style="text-align: justify">
   <p>
-    &nbsp;&nbsp;&nbsp;&nbsp; The last type of design pattern I will mention and talk about today is the prototype design pattern. A person would want to use the prototype design pattern to be able to build new instances from other instances. Any time a person uses Javascript or the class idea they are using an instance of the prototype design pattern. The way I incorporated the prototype design pattern in by codes is creating class of venue, vendor, and vendorTypes which is used to encapsulate underlying Mongo collctions and that is where prototype design pattern is used within my code. An Example code with the implementation of prototype design pattern can be seen below.
+    &nbsp;&nbsp;&nbsp;&nbsp;The last type of design pattern I will mention and talk about today is the prototype design pattern. A person would want to use the prototype design pattern to be able to build new instances from other instances. Any time a person uses Javascript or the class idea they are using an instance of the prototype design pattern. The way I incorporated the prototype design pattern in my codes is creating a class of venue, vendor, and vendorTypes which is used to encapsulate underlying Mongo collections and that is where prototype design pattern is used within my code. An Example code with the implementation of prototype design pattern can be seen below.
+  </p>
+</div>  
     
 ```js
   class VendorsCollection {
