@@ -33,13 +33,13 @@ labels:
   </p>
 </div>  
   
-### Publish-Subscribe Design Pattern
+### Publish-Subscribe Design Pattern (Observer)
 <div style="text-align: justify">
   <p>
-    &nbsp;&nbsp;&nbsp;&nbsp; The second design pattern we will be talking about is the Publish-Subscribe design pattern. According to <a href="https://en.wikipedia.org/wiki/Publish–subscribe_pattern">Wikipedia</a> publish-subscribe is a messaging pattern where senders of messages, called publishers, do not program the messages to be sent directly to specific receivers, called subscribers, but instead categorize published messahes into classes without knowledge of which subscribes, if any, there maybe.
+    &nbsp;&nbsp;&nbsp;&nbsp; The second design pattern we will be talking about is the Publish-Subscribe design pattern, a variation of Observer design pattern. According to <a href="https://en.wikipedia.org/wiki/Publish–subscribe_pattern">Wikipedia</a> publish-subscribe is a messaging pattern where senders of messages, called publishers, do not program the messages to be sent directly to specific receivers, called subscribers, but instead categorize published messages into classes without knowledge of which subscribes, if any, there maybe.
   </p>
   <p>
-    &nbsp;&nbsp;&nbsp;&nbsp; The way I implemented this design pattern is through a class project that I had worked on during my time in college, in the project we were tasked in creating a site that would display all available food options with our school campus. In the site it would have a venues page which showed all available food establishments and a vendors page for a new vendor to login and be able to create thier own vendor profile under the venues pages. The way I implemented the publish-subscribe scribe is by designating that when a user has logged in and if that users rold is a vendor the vendor option would show up, because the vendor was a subscribe to our set assignment role and is able to publish their establishment within the venues page. The example code can be seen below.
+    &nbsp;&nbsp;&nbsp;&nbsp; The way I implemented this design pattern is through a class project that I had worked on during my time in college, in the project we were tasked in creating a site that would display all available food options with our school campus. In the site it would have a venues page which showed all available food establishments and a vendors page for a new vendor to login and be able to create their own vendor profile under the venues pages. The way I implemented the publish-subscribe scribe is by designating that when a user has logged in and if that user's role is a vendor the vendor option would show up, because the vendor was a subscriber to our set assignment role and is able to publish their establishment within the venues page. The example code can be seen below.
   </p>
 </div>  
 ```js
@@ -62,4 +62,42 @@ labels:
   }
   return this.ready();
 ```
+a sample code of the subscription to vendors is seen below.
+```js
+   this.userPublicationName = `${this.name}.publication.user`;
+   this.adminPublicationName = `${this.name}.publication.admin`;
+```
+
+### Prototype Design Pattern
+<div style="text-align: justify">
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp; The last type of design pattern I will mention and talk about today is the prototype design pattern. A person would want to use the prototype design pattern to be able to build new instances from other instances. Any time a person uses Javascript or the class idea they are using an instance of the prototype design pattern. The way I incorporated the prototype design pattern in by codes is creating class of venue, vendor, and vendorTypes which is used to encapsulate underlying Mongo collctions and that is where prototype design pattern is used within my code. An Example code with the implementation of prototype design pattern can be seen below.
+    
+```js
+  class VendorsCollection {
+  constructor() {
+    // The name of this collection.
+    this.name = 'VendorsCollection';
+    // Define the Mongo collection.
+    this.collection = new Mongo.Collection(this.name);
+    // Define the structure of each document in the collection.
+    this.schema = new SimpleSchema({
+      email: { type: String, index: true, unique: true },
+      vendorName: { type: String, optional: true },
+      campusLocation: { type: String, optional: true },
+      vendorHours: { type: String, optional: true },
+      description: { type: String, optional: true },
+      picture: { type: String, optional: true },
+    }, { tracker: Tracker });
+    // Ensure collection documents obey schema.
+    this.collection.attachSchema(this.schema);
+    // Define names for publications and subscriptions
+    this.userPublicationName = `${this.name}.publication.user`;
+    this.adminPublicationName = `${this.name}.publication.admin`;
+  }
+}
+```
+
+
+
   
