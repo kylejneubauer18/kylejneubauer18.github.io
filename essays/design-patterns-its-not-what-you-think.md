@@ -31,14 +31,18 @@ labels:
   <p>
   &nbsp;&nbsp;&nbsp;&nbsp; The first design pattern is the Singleton Pattern, the gist of a Singleton pattern is a type of design that comes under the creational pattern and provides one of the best ways to create an object. In other words it provides a "global variable" in an object oriented language and that does not support global variables, and/or, provide complex global state. Some of the advantages in using the singleton design pattern is that it provides "global state" in an object-oriented manner; another advantage to a singleton design pattern is that it's a very easy design pattern to implement. Their are a couple of disadvantages when using the singleton pattern, those disadvantages is that it is not normally a thread-safe design and using a global state is normally not recommended.
   </p>
+</div>  
   
-### Publish-Subscribe Design Pattern  
+### Publish-Subscribe Design Pattern
+<div style="text-align: justify">
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp; The second design pattern we will be talking about is the Publish-Subscribe design pattern. According to <a href="https://en.wikipedia.org/wiki/Publish–subscribe_pattern">Wikipedia</a> publish-subscribe is a messaging pattern where senders of messages, called publishers, do not program the messages to be sent directly to specific receivers, called subscribers, but instead categorize published messahes into classes without knowledge of which subscribes, if any, there maybe.
   </p>
   <p>
-    &nbsp;&nbsp;&nbsp;&nbsp; The way I implemented this design pattern is through a class project that I had worked on during my time in college, in the project we were tasked in creating a site that would display all available food options with our school campus. In the site it would have a venues page which showed all available food establishments and a vendors page for a new vendor to login and be able to create thier own vendor profile under the venues pages. The way I implemented the publish-subscribe scribe is by designating that when a user has logged in and if that users rold is a vendor the vendor option would show up, because the vendor was a subscribe to our set assignment role and is able to publish their establishment within the venues page. The example code can be seen below. 
-```
+    &nbsp;&nbsp;&nbsp;&nbsp; The way I implemented this design pattern is through a class project that I had worked on during my time in college, in the project we were tasked in creating a site that would display all available food options with our school campus. In the site it would have a venues page which showed all available food establishments and a vendors page for a new vendor to login and be able to create thier own vendor profile under the venues pages. The way I implemented the publish-subscribe scribe is by designating that when a user has logged in and if that users rold is a vendor the vendor option would show up, because the vendor was a subscribe to our set assignment role and is able to publish their establishment within the venues page. The example code can be seen below.
+  </p>
+</div>  
+```html
   import { Vendors } from '../../api/vendor/Vendors';
   import { VendorTypes } from '../../api/vendor/VendorTypes';
   import { VendorClass } from '../../api/interests/vendorClassifications';
@@ -59,6 +63,3 @@ labels:
   return this.ready();
 ```
   
-  
-  
-</div>  
