@@ -42,7 +42,7 @@ labels:
     &nbsp;&nbsp;&nbsp;&nbsp; The way I implemented this design pattern is through a class project that I had worked on during my time in college, in the project we were tasked in creating a site that would display all available food options with our school campus. In the site it would have a venues page which showed all available food establishments and a vendors page for a new vendor to login and be able to create thier own vendor profile under the venues pages. The way I implemented the publish-subscribe scribe is by designating that when a user has logged in and if that users rold is a vendor the vendor option would show up, because the vendor was a subscribe to our set assignment role and is able to publish their establishment within the venues page. The example code can be seen below.
   </p>
 </div>  
-```html
+```js
   import { Vendors } from '../../api/vendor/Vendors';
   import { VendorTypes } from '../../api/vendor/VendorTypes';
   import { VendorClass } from '../../api/interests/vendorClassifications';
