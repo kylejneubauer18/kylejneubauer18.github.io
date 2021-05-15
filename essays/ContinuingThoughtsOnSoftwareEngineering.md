@@ -60,7 +60,7 @@ in other words an IDE is where a software engineer will do the majority of their
 &nbsp;&nbsp;&nbsp;&nbsp; Last note, I found another team called the RED-Lab team in which we were responsible for creating a camera system to think for itself on deciding what is a Coconut Beetle and what is not and send those images to the teams server and all that was used with github to which I introduced the team to all because of my software engineering class.
  </div>
  
- ## Final Thoughts
+## Final Thoughts
 
 <div align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; Closing thoughts, although software engineering dealt with many web development tools throughout the course, there are many other aspects to the course that has strengthened my habits, helped me understand gray areas, and introduced me to other development environments. The one thing I'm most thankful for and am excited to use outside web development is configuration management and version control allowing me to work extensively within the github ecosystem. I will carry that throughout my career as a software engineer. My assumptions going into the course have been put to rest and left excitement for the future moving forward.<br><br>  
