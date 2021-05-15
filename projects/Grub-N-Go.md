@@ -38,4 +38,4 @@ summary: Build a User Friendly Website for food establishments around University
 </div>
 
 * [Grub-N-Go Website](https://grubngo.xyz)
-
+</div>
