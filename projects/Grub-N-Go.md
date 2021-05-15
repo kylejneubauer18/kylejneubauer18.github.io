@@ -40,3 +40,4 @@ summary: Build a User Friendly Website for food establishments around University
 
 * [Grub-N-Go Website](https://grubngo.xyz)
 * [Grub-N-Go Organization Homepage](https://grub-n-go.github.io)
+* [Grub-N-Go Organization GitHub](https://github.com/grub-n-go/grub-n-go)
