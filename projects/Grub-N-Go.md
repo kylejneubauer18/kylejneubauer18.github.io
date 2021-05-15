@@ -18,7 +18,7 @@ labels:
 summary: Build a User Friendly Website for food establishments around University of Hawaii at Manoa
 ---
 
-<img class="ui large floated rounded image" src="../images/landing.png">
+<img class="ui centered image" src="../images/landing.png">
 
 <div align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;The purpose of this project is to demonstrate my ability to integrate all the materials learned from software engineering, such materials learned and applied are Configuration Management, UI design using HTML, CSS, Semantic UI, React, creating databases using MongoDB, Application Design by way of Meteor, Agile Project Management, Deployment via digitalOcean, Testing with testcafe, and Javascript. The objective of the project is to build a user-friendly website in which a student or faculty of the University Of Hawaii at Manoa is able to quickly look up all available food options on campus through one website.<br><br>
