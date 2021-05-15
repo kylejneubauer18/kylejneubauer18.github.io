@@ -25,12 +25,12 @@ labels:
 
 ## Software Engineering Uses Many Differnt Environments
 
-<p align="justify">
+
 &nbsp;&nbsp;&nbsp;&nbsp;Software engineering uses many different versions of a development environments. First, a development environment is an integrated development evironment  which is a software development tool the has the following properties.
+
 * Language-aware editing
 * Project definition facilites
 * Integrated compilation
 * Integrated stepwise execution
-in other words
 
-</p>
+
