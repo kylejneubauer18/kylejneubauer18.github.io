@@ -22,3 +22,15 @@ labels:
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;The modules were setup as to build one on top of the other and you start learning things and getting excited for things and it became more enjoyable. You start to learn about development environments, coding standard, agile project managements, and a slew of other relevant things all related to software engineering as a whole, without you even realizing that you were learning an in-depth subject, which made it so enjoyable. I truly believe that what contributed to the enjoyment about learning software engineering in general had to do with how the material is laid out for you to be able to absorb all the knowledge you were taking in, the environment into which you are learning, and of course the professor to chart the course. Software engineering in general is a multifaceted subject an could  on some occasions seem overwhelming.
 </p>
+
+## Software Engineering Uses Many Differnt Environments
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;Software engineering uses many different versions of a development environments. First, a development environment is an integrated development evironment  which is a software development tool the has the following properties.
+* Language-aware editing
+* Project definition facilites
+* Integrated compilation
+* Integrated stepwise execution
+in other words
+
+</p>
