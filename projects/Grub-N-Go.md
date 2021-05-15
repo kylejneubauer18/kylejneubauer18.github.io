@@ -3,7 +3,7 @@ layout: project
 type: project
 
 
-image: images/team-kanaloa.png
+image: images/landing.png
 title: The Making Of Grub-N-Go
 permalink: projects/landing
 # All dates must be YYYY-MM-DD format!
