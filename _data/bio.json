@@ -29,23 +29,16 @@
   },
   "interests": [
     {
-      "name": "Software Engineering",
-      "keywords": [
-     ]
-    },
-    {
-      "name": "Internet Of Things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
       "name": "Machine Learning",
       "keywords": [
         "Sony Neural Console",
         "Arduino",
         "RIP Lab"
+     ]
+    },
+    {
+      "name": "Predictive Modeling",
+      "keywords": [
       ]
     },
     {
@@ -62,13 +55,10 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Meteor",
+        "Matlab",
         "Python",
         "PHP",
+        "Tensorflow",
 
       ]
     },
@@ -77,9 +67,7 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Unix",
         "Git/GitHub",
-        "g++/gcc",
         "Windows"
       ]
     }
@@ -87,10 +75,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Fall, 2021)",
+      "area": "Electrical Engineering Graduated Spring 2021",
       "studyType": "B.S.",
       "startDate": "2018-08-24",
-      "endDate": "Present",
+      "endDate": "2021-05-15",
       "gpa": "",
       "courses": [
       ]
@@ -98,27 +86,27 @@
   ],
   "work": [
     {
-      "company": "Apple Inc.",
-      "position": "Technical Specialist",
+      "company": "Walgreens",
+      "position": "Customer Service Associate",
       "website": "",
-      "startDate": "2015-11-28",
-      "endDate": "2019-10-16",
-      "summary": "Responsible for troubleshooting all iOS issues, both software and hardware components",
+      "startDate": "2019-10",
+      "endDate": "2021-04",
+      "summary": "Responsible for troubleshooting all technical and photo project issues in store and online",
       "highlights": [
-        "Actively Listen to Issues of the customer, and offer a solution",
-        "Warm Hello and a Fond Goodbye"
+        "Actively Listen and communicate with customers to address issues and offer a solution",
+        "Awarded Employee of the Month for outstanding customer service"
       ]
     },
     {
-      "company": "Apple Inc.",
-      "position": "Sales Specialist",
+      "company": "STAR GPS",
+      "position": "Administrator Assistant",
       "website": "",
-      "startDate": "2015-11-28",
-      "endDate": "2019-10-16",
-      "summary": "Assisted Customers with apple product purchases, answer questions, and light trouble shooting",
+      "startDate": "2018-08",
+      "endDate": "2019-01",
+      "summary": "Assist Students with technical support, permissions, and registering for university courses",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues in person",
-        "Assisted customers with their purchase in a device in deciding what to get and helping setup their brand new device"
+        "Troubleshoot website, course pathways, and student registration issues online and in person",
+        "Assisted faculty at University with updating their level of authorization and permissions "
       ]
     }
   ],
