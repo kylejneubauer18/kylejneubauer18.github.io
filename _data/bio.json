@@ -1,29 +1,29 @@
 {
   "basics": {
-    "name": "Ryan Vizcarra",
-    "label": "Student",
-    "picture": "https://kylejneubauer18/images/ryan.jpg",
-    "email": "vizcarra@hawaii.edu",
+    "name": "Kyle Neubauer",
+    "label": "Graduate",
+    "picture": "https://kylejneubauer18/images/kyle.jpg",
+    "email": "kylejneubauer18@gmail.com",
     "phone": "",
-    "website": "https://ryanv048.github.io",
-    "summary": "I am studying for a B.S. in Computer Engeering in the Department of Engineering at the University of Hawaii at Manoa. I expect to graduate in the Fall of 2021. After graduation I see myself working as a data analyist.",
+    "website": "https://kylejneubauer18.github.io",
+    "summary": "I am a graduate with a B.S. in Electrical Engineering at the University of Hawaii at Manoa. I am a competitive person that wants to become a machine learning engineer. ",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "60140",
+      "city": "Hampshire",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Illinois"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "ryanv048",
-        "url": "http://github.com/ryanv048"
+        "username": "kylejneubauer18",
+        "url": "http://github.com/kylejneubauer18"
       },
       {
         "network": "linkedin",
-        "username": "ryan-vizcarra",
-        "url": "https://www.linkedin.com/in/ryan-v-486207204/"
+        "username": "",
+        "url": ""
       },
       ]
   },
