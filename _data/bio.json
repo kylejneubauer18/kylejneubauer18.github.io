@@ -33,7 +33,7 @@
       "keywords": [
         "Sony Neural Console",
         "Arduino",
-        "RED Lab"
+        "Tensorflow"
      ]
     },
     {
@@ -56,8 +56,7 @@
       "keywords": [
         "Renewable Energy",
         "Solar",
-        "Wind",
-        "Water"
+        "Wind"
       ]
     }
   ],
