@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cnn.PNG
+image: images/mnist.jpg
 title: Handwritten Digit Recognition
 permalink: projects/handwrittenDigitRecognition
 # All dates must be YYYY-MM-DD format!
