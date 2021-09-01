@@ -10,7 +10,7 @@ labels:
   - Sony Neural Network 
   - Arduino
   - Machine Learning
-summary: To build a algorithm that learns with time if certain location skies are cloudy or not cloudy and adjust solar power management system accordingly.
+summary: To build an algorithm that learns with time if certain location skies are cloudy or not cloudy and adjust solar power management system accordingly.
 ---
 <div class="ui centered medium rounded images">
   <img class="ui centered image" src="../images/cloud-cover-1.png">
