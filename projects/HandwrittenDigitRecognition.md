@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cnn.PNG
 title: Handwritten Digit Recognition
-permalink: projects/HandwrittenDigitRecognition
+permalink: projects/renewableEnergy
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-14
 labels:
