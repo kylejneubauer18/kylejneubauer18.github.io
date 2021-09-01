@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/renewable-Energy.png
+image: images/cnn.PNG
 title: Handwritten Digit Recognition
 permalink: projects/handwrittenDigitRecognition
 # All dates must be YYYY-MM-DD format!
-date: 2020-04-25
+date: 2021-04-25
 labels:
   - Machine Learning
   - Deep Learning
