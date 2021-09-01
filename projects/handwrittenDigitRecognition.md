@@ -16,7 +16,7 @@ summary: To build an algorithm that analyzes visual imagry of handwritten digits
 ---
 <div class="ui centered medium rounded images">
   <img class="ui centered image" src="../images/mnist.jpg">
-  <img class="ui centered image" src="../images/training.png">
+  <img class="ui centered image" src="../images/training.PNG">
 </div>
 
 <p align="justify">
