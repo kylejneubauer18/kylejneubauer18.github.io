@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cnn.PNG
 title: Handwritten Digit Recognition
-permalink: projects/handwrittenDigitRecognition
+permalink: projects/HandwrittenDigitRecognition
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-14
 labels:
@@ -15,8 +15,8 @@ labels:
 summary: To build an algorithm that analyzes visual imagry of handwritten digits and categorizes them as their corresponding digit with high certainty.
 ---
 <div class="ui centered medium rounded images">
-  <img class="ui centered image" src="../images/mnist.jpg">
-  <img class="ui centered image" src="../images/comp_nn.png">
+  <img class="ui centered image" src="../images/">
+  <img class="ui centered image" src="../images/">
 </div>
 
 <p align="justify">
