@@ -34,3 +34,4 @@ summary: To build an algorithm that analyzes visual imagry of handwritten digits
 &nbsp;&nbsp;&nbsp;&nbsp;Working on the coding part of this Machine Learning project really helped me grow and expand my knowledge on what exactly machine learning can do. I was able to pick up learning to code in Tensorflow and Python very quickly and with the help of kernals I could accomplish my goals much faster than I expected. I also learned how to optimize my machine learning algorithms and adjust their hyper parameters to boost the accuracy of the models.
 </p>
 
+If you would like to view our project's final paper you can view it [here](https://github.com/kylejneubauer18/kylejneubauer18.github.io/blob/master/Final%20Presentation%202019-10-09%2019_34_06.pdf).
