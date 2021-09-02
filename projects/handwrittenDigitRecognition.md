@@ -19,7 +19,7 @@ summary: To build an algorithm that analyzes visual imagry of handwritten digits
 </div>
 
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;The objective of this project is to build a system in where cameras would be placed on rooftops all over Oahu and ultimately around the world to help maintain and make renewable energy much more effiecient. For example, if the leeward side of the island of Oahu and the windward side is cloudy and rainy the system would then divert all renewable energy collected on the leeward side to the windward side and vice-versa. With a system like this in place Oahu and potentially the world could potentially make full use of the renewable energy created and gathered from houses and business rather it going to waste and just decaying.
+&nbsp;&nbsp;&nbsp;&nbsp;The objective of this project is to build a machine learning algorithm that utilizes convolutional neural network deep learning to recognize digits 0 through 9. This project is the first step in AI assistance development as it could be used in going through large amounts of digital documents and transcribing difficult and tedious handwritting with high accuracy and speed. The machine learning algorithm would not be limited to one language and could potentially be used in real time while streaming video to transcribe and translate difficult and foreign characters. With a machine learning algorithm that is used in assistance, it could make recording important documentation a lot more efficient and affordable as well as connecting people all accross the globe, all with just 1 digit at a time.
 </p>
 
 <p align="justify">
