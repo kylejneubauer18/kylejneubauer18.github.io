@@ -10,7 +10,9 @@ labels:
   - Machine Learning
   - Deep Learning
   - Image Classification
+  - Environment Friendly
   - Transfer Learning
+  - Arduino
   - Python
   - CNN
 summary: To build an algorithm that analyzes visual imagry of coconut rhinocerous beetles and other native insects of hawaii and categorizes them to be then identified among 3000 traps across Oahu to greatly improve trap checking efficiency as well as exponentially raising the catch rate of given areas.
@@ -20,7 +22,7 @@ summary: To build an algorithm that analyzes visual imagry of coconut rhinocerou
 </div>
 
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;The objective of this project is to build a machine learning algorithm that utilizes convolutional neural network deep learning to recognize digits 0 through 9. This project is the first step in AI assistance development as it could be used in going through large amounts of digital documents and transcribing difficult and tedious handwritting with high accuracy and speed. The machine learning algorithm would not be limited to one language and could potentially be used in real time while streaming video to transcribe and translate difficult and foreign characters. With a machine learning algorithm that is used in assistance, it could make recording important documentation a lot more efficient and affordable as well as connecting people all accross the globe, all with just 1 digit at a time.
+&nbsp;&nbsp;&nbsp;&nbsp;The objective of this project is to build a machine learning algorithm that works along side OpenMV to create computer vision to successfully detect Coconut Rhinoceros Beetles. Convolutional neural networks (CNN), a deep learning algorithm best used for image classification, was used detect and identify multiple native hawaiian insects and the non-native coconut rhinoceros beetles. This project is the first step in helping the environment and coconut trees across hawaii as it could be further improved for other islands and countries. With the assistance of monitoring multiple traps, it could provide invaluable data and information by tracking entire colonies in real time. With machine learning, we could makes protecting the environment much easier and affordable for everyone!
 </p>
 
 <p align="justify">
