@@ -12,7 +12,6 @@ labels:
   - Image Classification
   - Environment Friendly
   - Transfer Learning
-  - Arduino
   - Python
   - CNN
 summary: To build an algorithm that analyzes visual imagry of coconut rhinocerous beetles and other native insects of hawaii and categorizes them to be then identified among 3000 traps across Oahu to greatly improve trap checking efficiency as well as exponentially raising the catch rate of given areas.
@@ -26,7 +25,7 @@ summary: To build an algorithm that analyzes visual imagry of coconut rhinocerou
 </p>
 
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;The group project consisted of 2 students and was split into two parts. One student focused on research, development, and presentation of the project as their primary goal was to figure out which UI and programming language would best suit the project. After some testing and research they had concluded on using Tensorflow, however switched to google collab to have faster training speeds even though Tensorflow was the optimal interface. The other worked on the coding part of the project, such as training and improving test accuracy. Our primary goal was to have a consistant training step and not have the machine learning algorithm memorize the numbers instead of learning them. By working together they were able to reasearch and utilize binary cross entropy that penalizes probabilities based on expected values. After each image is analyzed the algorithm would categorize them by number 0 through 9 with the highest probability being the most likely number.
+&nbsp;&nbsp;&nbsp;&nbsp;The project consisted of two groups, the arduino coding team, and the machine learning team. The arduino team focused on researching what hardware to use, importing modules, connecting to wifi/LTE, connecting and recieving data from url, managing device power, device sleep time, and more. OpenMV was decided on as the optimal choice as it supports machine learning libraries, is compact and small enough to fit into traps, supports a wifi shield, and is low power (less than 200mA) so that it can be powered by solar energy. As for the machine learning team, Tensorflow was utilized as it is a free open source library for machine learning. Tensorflow was the optimal choice becase it can be coded in python which has a lot of resources and code to learn from and it can be easily exported to embedded systems like OpenMV. The machine learning team created a convolutional neural network to identify coconut rhinoceros beetles and with the help of transfer learning, utilized the pre-trained MobileNet model. By using transfer learning the machine learning team could obtain a higher accuracy, a faster training time, and was overall less computationally intensive. The machine learning team trained on cats and dogs initially, but switched to coconut rhinoceros beetles and hawaiian insects once they were able to obtain more images. After obtaining the desired accuracy, the machine learning team used quantization to load it onto the mobile device.
 </p>
 
 <p align="justify">
