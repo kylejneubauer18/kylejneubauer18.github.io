@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/################################################
+image: images/openmv.jpg
 title: CRB Image Classification
 permalink: projects/redlabcrb
 # All dates must be YYYY-MM-DD format!
