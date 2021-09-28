@@ -37,7 +37,7 @@ summary: To build an algorithm that analyzes visual imagry of coconut rhinocerou
 &nbsp;&nbsp;&nbsp;&nbsp;Working on both teams of this Machine Learning project helped me expand my skills on developing computer vision applications and implementing them for real time use. I was able to grow my skills with Tensorflow, Python, and learned some PHP code along the way. Not everything was straight forward, but working on the project consistantly allowed us to create pathways for the team to continue with the project to its completion. Helping create new ideas to solve difficult problems was my favorite part of this project and I hope to continue working with teams to create new and exciting inovative ideas.
 </p>
 
-If you would like to view our project's final paper you can view it [here](https://github.com/kylejneubauer18/kylejneubauer18.github.io/blob/e80277c76e898d16b2e9b0d2234996df5a824d13/EE%20445%20Final%20Paper.pdf).
+If you would like to view our project's final paper you can view it [here](https://github.com/kylejneubauer18/kylejneubauer18.github.io/blob/3ed7f1e8230b498fb588c0841f180d1808437675/496%20Paper.pdf).
 
 If you would like to view our project's powerpoint you can view it [here]
 (##########################################################).
