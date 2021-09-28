@@ -29,7 +29,7 @@ summary: To build an algorithm that analyzes visual imagry of coconut rhinocerou
 </p>
 
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;I was part of the coding team and my task involved researching current types of algorithms that may improve testing accuracies and building from the ground up with corresponding kernals. Some types of machine learning algorithms built and analyzed involved convolutional neural netowkrs (CNN), linear support vector machines (Linear SVM), and non-linear support vector machines (non-linear SVM). Every other day over the course of two weeks we would meet online to discuss current progress and work towards optimizing our parameters to improve accuracy further. I was able to get three working algorithms with all accuracies above 90% and successfully completed my tasks. The Future plans for this project is to enchance the algorithm and teach the algorithm to identify new characters such as the alphabet.
+&nbsp;&nbsp;&nbsp;&nbsp;I was part of the machine learning team and my task involved assisting with coding, training, and obtaining images that could be used for training to improve accuracies. I had picked up some work that was necessary for both teams to properly communicate with each other such as writing the code to bus the information over from the device to a local url through wifi/LTE. After sending the information over, it was important to write code to listen for POSTS on the url and to properly identify and classify them into a database to be viewed and I had accomplished this with PHP code and MySQL. I was able to successfully help get the algorithm to reach an accuracy above 90% and send all data such as images, messages, time, date, and trap location to our online server.
 </p>
 
 <p align="justify">
