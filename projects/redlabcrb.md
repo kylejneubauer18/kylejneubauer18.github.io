@@ -39,6 +39,5 @@ summary: To build an algorithm that analyzes visual imagry of coconut rhinocerou
 
 If you would like to view our project's final paper you can view it [here](https://github.com/kylejneubauer18/kylejneubauer18.github.io/blob/3ed7f1e8230b498fb588c0841f180d1808437675/496%20Paper.pdf).
 
-If you would like to view our project's powerpoint you can view it [here]
-(https://github.com/kylejneubauer18/kylejneubauer18.github.io/blob/d849ef655c2cb17fcf5418c169c2895182659675/496%20Poster%20Session.pdf)
+If you would like to view our project's powerpoint you can view it [here](https://github.com/kylejneubauer18/kylejneubauer18.github.io/blob/d849ef655c2cb17fcf5418c169c2895182659675/496%20Poster%20Session.pdf)
 
