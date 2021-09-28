@@ -18,8 +18,8 @@ labels:
 summary: To build an algorithm that analyzes visual imagry of coconut rhinocerous beetles and other native insects of hawaii and categorizes them to be then identified among 3000 traps across Oahu to greatly improve trap checking efficiency as well as exponentially raising the catch rate of given areas.
 ---
 <div class="ui centered medium rounded images">
-  <img class="ui centered image" src="../images/cloud-cover-1.png">
-  <img class="ui centered image" src="../images/cloud-cover-3.png">
+  <img class="ui centered image" src="../images/openmv2.jpg">
+  <img class="ui centered image" src="../images/openmv3.png">
 </div>
 
 <p align="justify">
