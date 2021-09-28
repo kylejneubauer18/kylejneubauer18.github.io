@@ -5,7 +5,7 @@ image: images/################################################
 title: CRB Image Classification
 permalink: projects/redlabcrb
 # All dates must be YYYY-MM-DD format!
-date: 2021-05-10
+date: 2021-05-13
 labels:
   - Machine Learning
   - Deep Learning
